@@ -4,11 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyy00&label=Profile%20views&color=0e75b6&style=flat" alt="jayyy00" /> </p>
 
-- 📝 I’m currently working on **Mearn Stack**
+-  I am a third-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT), pursuing a Bachelor of Information Technology. My primary areas of interest Fields are Web Development, UI Design, and Quality Assurance (QA).
 
-- 🌱 I’m currently learning **Android,Learn React,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
-
-- 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPTS,SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
