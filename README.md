@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyy00&label=Profile%20views&color=0e75b6&style=flat" alt="jayyy00" /> </p>
 
-<b> I am a third-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT), pursuing a Bachelor of Information Technology. My primary areas of interest Fields are Web Development, UI Design, and Quality Assurance (QA).</b>
+<p style="font-size: 30px;"><b> I am a third-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT), pursuing a Bachelor of Information Technology. My primary areas of interest Fields are Web Development, UI Design, and Quality Assurance (QA).</b></p>
 
 
 <h3 align="left">Connect with me:</h3>
