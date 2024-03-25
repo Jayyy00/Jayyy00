@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyy00&label=Profile%20views&color=0e75b6&style=flat" alt="jayyy00" /> </p>
 
-<h2><b> I am a third-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT), pursuing a Bachelor of Information Technology. My primary areas of interest Fields are Web Development, UI Design, and Quality Assurance (QA).</b></h2>
+<h2><b> I am a diligent third-year undergraduate at SLIIT, pursuing a Bachelor of Information Technology, with interests in Web Development, Testing, and UI/UX Design. I am inclined towards experimentation and derive satisfaction from employing innovative methodologies in my work. I am eager to find opportunities in the industry where I can apply my skills to develop. and execute effective strategies. I demonstrate proficiency in a variety of programming Technologies, namely HTML, PHP, JavaScript, CSS, MySQL, Java, MERN Furthermore, I possess adeptness in utilizing the Microsoft Office suite, Encompassing applications such as Word, Excel, and PowerPoint.</b></h2>
 
 
 <h3 align="left">Connect with me:</h3>
