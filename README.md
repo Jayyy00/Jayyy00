@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Jayani Jayasinghe</h1>
+<h1 align="center">Hello, I'm Jayani Jayasinghe</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyy00&label=Profile%20views&color=0e75b6&style=flat" alt="jayyy00" /> </p>
 
