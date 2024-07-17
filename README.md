@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="left">Hello, I'm Jayani Jayasinghe</h1>
+<h1 align="left">Hi, I'm Jayani Jayasinghe</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyy00&label=Profile%20views&color=0e75b6&style=flat" alt="jayyy00" /> </p>
 <h2>UI/UX - Web Development</h2>
